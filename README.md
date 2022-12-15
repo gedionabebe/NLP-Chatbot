@@ -1,4 +1,4 @@
-# NLP-Chatbot
+# NLP Chatbot
 ## An NLP chatbot to answer scientific questions. 
 
 ## Requirements
@@ -14,5 +14,5 @@
 git clone https://github.com/gedionabebe/NLP-Chatbot.git
 cd NLP-Chatbot
 ```
-## Contrbutors
+## Contributors
 - Gedion Abebe
